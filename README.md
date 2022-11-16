@@ -1,6 +1,9 @@
 # Hello There 
 ![Hello There ](https://t3.ftcdn.net/jpg/02/37/57/40/240_F_237574042_UUqnYdNfjWZMdCoZuvsZmHcfDCmC36nN.jpg)
 
+![Profile views](https://gpvc.arturio.dev/devjoyhasan)  
+
+
 This is Joy. I'm a Professional Web Developer. I'm Highly Motivated and confident in my ability to develop your website. Have Also 3 years of experience on this sector. I'm also work on Gitbook, GitHub and Whitepaper for NFT, Blockchain, Crypto, Defi, Game Etc projects. And I'm also fluent in English, That is very helpful for both of us. So hire me for your project and see my magic. <br> 
 Best Regards, <br> 
 Joy Hasan
@@ -19,4 +22,3 @@ Joy Hasan
 
 ![GitHub metrics](https://metrics.lecoq.io/devjoyhasan)  
 
-![Profile views](https://gpvc.arturio.dev/devjoyhasan)  
