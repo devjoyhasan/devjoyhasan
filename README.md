@@ -1,5 +1,8 @@
 ## Hi, I'm Joy Hasan 👋
 
+[![Banner][banner-img]][banner-link]
+
+
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
