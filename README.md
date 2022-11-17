@@ -1,6 +1,5 @@
 ## Hi, I'm Joy Hasan 👋
-
-(https://pngimg.com/uploads/welcome/welcome_PNG18.png)
+![](https://pngimg.com/uploads/welcome/welcome_PNG18.png)
 
 <p>
 👑 I am Web Developer <br> 
