@@ -1,6 +1,6 @@
 ## Hi, I'm Joy Hasan 👋
 
-[![Banner][banner-img]][banner-link]
+[![Banner][banner-img]][https://github.com/devjoyhasan/devjoyhasan/blob/main/welcome1.png]
 
 
 <p>
