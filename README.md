@@ -1,6 +1,6 @@
 ## Hi, I'm Joy Hasan 👋
 
-(https://github.com/devjoyhasan/devjoyhasan/blob/main/welcome1.png)
+(https://pngimg.com/uploads/welcome/welcome_PNG18.png)
 
 <p>
 👑 I am Web Developer <br> 
