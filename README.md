@@ -1,12 +1,12 @@
 ## Hi, I'm Joy Hasan 👋
 ![](https://github.com/devjoyhasan/devjoyhasan/blob/main/welcome1.png)
 
+![Profile views](https://gpvc.arturio.dev/devjoyhasan) 
+
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
-
-![Profile views](https://gpvc.arturio.dev/devjoyhasan) 
 
 <p align="left"> <a href="https://twitter.com/devjoyhasan" target="blank"><img src="https://img.shields.io/twitter/follow/devjoyhasan?logo=twitter&style=for-the-badge" alt="devjoyhasan" /></a> </p>
 
